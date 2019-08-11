@@ -17,3 +17,4 @@ Softrope currently runs on Framework35 so you need the v2.0 Bass.NET DLL, added 
 - Fails to set existing muted SoundEffectControl when playing from SceneEditor
 - Discern why SoundEffectControl LevelMeter objects don't work
 - Stop scenes which do not loop at end of playback
+- Looping gap lower bound does not persist after closing Scene settings
